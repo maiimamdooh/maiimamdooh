@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **Mai Mamdooh**
-- 👀 I’m interested in **RPA**&**Data Analytic**
+- 👀 I’m interested in **RPA** & **Data Analytic**
 - 📫 How to reach me: **maimamdooh71@gmail.com**
 
 <!---
